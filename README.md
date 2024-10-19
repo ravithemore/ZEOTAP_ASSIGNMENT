@@ -53,7 +53,7 @@ This project consists of two separate applications:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/KrishnaSaiChaitanya/Zeotap_Assignment.git
+    git clone https://github.com/ravithemore/ZEOTAP_ASSIGNMENT
     cd Zeotap_Assignment
     ```
 
